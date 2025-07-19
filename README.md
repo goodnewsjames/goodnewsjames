@@ -3,8 +3,8 @@
   a Dev and More</h1>
 
 <p align="center">
-  I am a <b>Flutter Developer</b> crafting <b>pixel-perfect</b>, <b>high-performance</b>, and <b>scalable</b> applications with clean, modular, and maintainable code.  
-  <b>Code & Creativity</b> — I build innovative apps that push smartphone capabilities, fueled by my passion for solving real-world problems with AI-powered projects.
+  I am a <b>Flutter Developer</b> crafting <b>pixel-perfect</b>, <b>high-performance</b>, and <b>scalable</b> applications with clean, modular, and maintainable code.<br>
+  <b>Code & Creativity:</b> I build innovative apps that push smartphone capabilities, fueled by my passion for solving real-world problems with AI-powered projects.
 </p>
 
 ---
